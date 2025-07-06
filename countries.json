@@ -5,25 +5,26 @@
       "eenot": "Gensek of CPU",
       "Totoska": "Gensek of CPR"
     },
-    "description": "Советский Союз - самая великая страна",
+    "description": "Glory to Soviet Union!",
     "diplomacy": {
-		"ottomans": "Ally",
-		"yemen": "Ally",
-		"alaska": "Trade"
+      "ottomans": "Ally",
+      "yemen": "Ally",
+      "alaska": "Trade"
     },
-	"hidenBonus": 1
+    "hidenBonus": 1,
+    "flagext": "svg"
   },
   "yemen": {
     "name": "Yamaniya",
     "members": {
       "Moaad": "Emir",
       "Zachary": "Prime minister",
-	  "mrpepper2000": "",
-	  "Castoktz": ""
+      "mrpepper2000": "",
+      "Castoktz": ""
     },
     "description": "Two admins, lol",
     "diplomacy": {
-		"soviets": "Ally"
+      "soviets": "Ally"
     }
   },
   "scandinavia": {
@@ -33,8 +34,7 @@
       "CheckPoint": ""
     },
     "description": "",
-    "diplomacy": {
-    }
+    "diplomacy": {}
   },
   "irland": {
     "name": "Irish Republic",
@@ -42,36 +42,35 @@
       "Thelukesterrvr": "King"
     },
     "description": "",
-    "diplomacy": {
-    },
-	"hidenBonus": -1
+    "diplomacy": {},
+    "hidenBonus": -1
   },
   "america": {
     "name": "United Federation Of The Southern States",
     "members": {
       "Inka": "President",
       "Useless": "",
-	  "Mosh": ""
+      "Mosh": ""
     },
     "description": "Capital City: Jacksonville\nIdeology: Democratic Federation\nLocation: Florida\nTerritorial Ambition: from Virginia to the Caribbean with a colony in Africa",
     "diplomacy": {
-		"ottomans": "Ally"
+      "ottomans": "Ally"
     },
-	"flagext": "webp"
+    "flagext": "webp"
   },
   "ottomans": {
     "name": "Ottoman Empire",
     "members": {
       "Purple": "Sultan",
       "Ottomanizm": "Grand Vizier",
-	  "Proatplanes": ""
+      "Proatplanes": ""
     },
     "description": "",
     "diplomacy": {
-		"soviets": "Ally"
+      "soviets": "Ally"
     },
-	"flagext": "png",
-	"hidenBonus": 1
+    "flagext": "png",
+    "hidenBonus": 1
   },
   "capetown": {
     "name": "Free City of Cape Town",
@@ -80,7 +79,7 @@
     },
     "description": "A coastal enclave at the southern tip of the continent, the Free City of Cape Town is an independent trade hub renowned for its open markets, strategic harbors, and rich mineral lands. Governed by a Prince, Cape Town stands apart from regional conflicts, offering safe haven to merchants, diplomats, and miners alike. Though small in size, its influence stretches far through commerce, diplomacy, and its firm commitment to peace, neutrality, and sovereignty.",
     "diplomacy": {},
-	"flagext": "png"
+    "flagext": "png"
   },
   "alaska": {
     "name": "Artic Union",
@@ -89,7 +88,7 @@
     },
     "description": "",
     "diplomacy": {
-		"soviets": "Trade"
-	}
+      "soviets": "Trade"
+    }
   }
 }
