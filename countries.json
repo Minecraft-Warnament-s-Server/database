@@ -1,0 +1,95 @@
+{
+  "soviets": {
+    "name": "Union of Soviet Socialist Republics",
+    "members": {
+      "eenot": "Gensek of CPU",
+      "Totoska": "Gensek of CPR"
+    },
+    "description": "Советский Союз - самая великая страна",
+    "diplomacy": {
+		"ottomans": "Ally",
+		"yemen": "Ally",
+		"alaska": "Trade"
+    },
+	"hidenBonus": 1
+  },
+  "yemen": {
+    "name": "Yamaniya",
+    "members": {
+      "Moaad": "Emir",
+      "Zachary": "Prime minister",
+	  "mrpepper2000": "",
+	  "Castoktz": ""
+    },
+    "description": "Two admins, lol",
+    "diplomacy": {
+		"soviets": "Ally"
+    }
+  },
+  "scandinavia": {
+    "name": "Sverige-Bulgani",
+    "members": {
+      "Yeezy": "King",
+      "CheckPoint": ""
+    },
+    "description": "",
+    "diplomacy": {
+    }
+  },
+  "irland": {
+    "name": "Irish Republic",
+    "members": {
+      "Thelukesterrvr": "King"
+    },
+    "description": "",
+    "diplomacy": {
+    },
+	"hidenBonus": -1
+  },
+  "america": {
+    "name": "United Federation Of The Southern States",
+    "members": {
+      "Inka": "President",
+      "Useless": "",
+	  "Mosh": ""
+    },
+    "description": "Capital City: Jacksonville\nIdeology: Democratic Federation\nLocation: Florida\nTerritorial Ambition: from Virginia to the Caribbean with a colony in Africa",
+    "diplomacy": {
+		"ottomans": "Ally"
+    },
+	"flagext": "webp"
+  },
+  "ottomans": {
+    "name": "Ottoman Empire",
+    "members": {
+      "Purple": "Sultan",
+      "Ottomanizm": "Grand Vizier",
+	  "Proatplanes": ""
+    },
+    "description": "",
+    "diplomacy": {
+		"soviets": "Ally"
+    },
+	"flagext": "png",
+	"hidenBonus": 1
+  },
+  "capetown": {
+    "name": "Free City of Cape Town",
+    "members": {
+      "Radar": "Prince"
+    },
+    "description": "A coastal enclave at the southern tip of the continent, the Free City of Cape Town is an independent trade hub renowned for its open markets, strategic harbors, and rich mineral lands. Governed by a Prince, Cape Town stands apart from regional conflicts, offering safe haven to merchants, diplomats, and miners alike. Though small in size, its influence stretches far through commerce, diplomacy, and its firm commitment to peace, neutrality, and sovereignty.",
+    "diplomacy": {},
+	"flagext": "png"
+  },
+  "alaska": {
+    "name": "Artic Union",
+    "members": {
+      "Manstein": "King"
+    },
+    "description": "",
+    "diplomacy": {
+		"soviets": "Trade"
+	}
+  }
+}
