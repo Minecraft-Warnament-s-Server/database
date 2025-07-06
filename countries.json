@@ -9,7 +9,8 @@
     "diplomacy": {
       "ottomans": "Ally",
       "yemen": "Ally",
-      "alaska": "Trade"
+      "alaska": "Trade",
+      "america": "test"
     },
     "hidenBonus": 1,
     "flagext": "svg"
