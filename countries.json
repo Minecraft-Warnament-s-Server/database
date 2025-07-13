@@ -82,7 +82,8 @@
   "capetown": {
     "name": "Free City of Cape Town",
     "members": {
-      "Radar": "Prince"
+      "Radar": "Prince",
+      "Nope": ""
     },
     "description": "A coastal enclave at the southern tip of the continent, the Free City of Cape Town is an independent trade hub renowned for its open markets, strategic harbors, and rich mineral lands. Governed by a Prince, Cape Town stands apart from regional conflicts, offering safe haven to merchants, diplomats, and miners alike. Though small in size, its influence stretches far through commerce, diplomacy, and its firm commitment to peace, neutrality, and sovereignty.",
     "diplomacy": {},
