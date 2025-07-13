@@ -67,12 +67,13 @@
     "name": "Ottoman Empire",
     "members": {
       "Purple": "Sultan",
-      "Ottomanizm": "Grand Vizier",
-      "Proatplanes": ""
+      "Proatplanes": "Head of Autonomy"
     },
     "description": "",
     "diplomacy": {
-      "soviets": "Ally"
+      "soviets": "War",
+      "america": "Ally",
+      "germany": "Puppet"
     },
     "flagext": "png",
     "hidenBonus": 1
