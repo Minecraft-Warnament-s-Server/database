@@ -7,10 +7,13 @@
       "Pelo": "",
       "Dioner": ""
     },
-    "description": "Soviet Union - Greatest Country of all times and peoples",
+    "description": "Soviet Union - bastion of anti-imerialism, center of Comecon - economic alliance for cooperation and just best country",
     "diplomacy": {
-      "ottomans": "Ally",
+      "ottomans": "War",
       "yemen": "Ally",
+      "velmira": "Ally",
+      "china": "Ally",
+      "carpathia": "Garante",
       "alaska": "Trade"
     },
     "hidenBonus": 1,
