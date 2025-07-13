@@ -55,9 +55,7 @@
   "america": {
     "name": "United Federation Of The Southern States",
     "members": {
-      "Inka": "President",
-      "Useless": "",
-      "Mosh": ""
+      "Inka": "President"
     },
     "description": "Capital City: Jacksonville\nIdeology: Democratic Federation\nLocation: Florida\nTerritorial Ambition: from Virginia to the Caribbean with a colony in Africa",
     "diplomacy": {
