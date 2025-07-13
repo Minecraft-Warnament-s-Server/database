@@ -29,8 +29,10 @@
     },
     "description": "Two admins, lol",
     "diplomacy": {
-      "soviets": "Ally"
-    }
+      "soviets": "Ally",
+      "ottomans": "War"
+    },
+    "flagext": "svg"
   },
   "scandinavia": {
     "name": "Sverige-Bulgani",
