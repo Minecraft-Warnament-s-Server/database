@@ -72,6 +72,7 @@
     "description": "",
     "diplomacy": {
       "soviets": "War",
+      "yemen": "War",
       "america": "Ally",
       "germany": "Puppet"
     },
